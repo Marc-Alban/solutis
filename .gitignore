@@ -1,0 +1,117 @@
+# Ignorer les fichiers de cache de Visual Studio
+.vscode/
+.vs/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+
+# Ignorer les fichiers d'exécution de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorer les dossiers bin et obj générés par Visual Studio
+[Bb]in/
+[Oo]bj/
+
+# Ignorer les fichiers de sauvegarde de Windows
+ehthumbs.db
+Desktop.ini
+
+# Ignorer les fichiers de cache des miniatures de Windows
+Thumbs.db
+
+# Ignorer les fichiers de cache NuGet
+packages/
+
+# Ignorer les fichiers de packages npm
+node_modules/
+
+# Ignorer les fichiers de packages yarn
+yarn.lock
+
+# Ignorer les fichiers de packages pnpm
+pnpm-lock.yaml
+
+# Ignorer les fichiers de package-lock.json
+package-lock.json
+
+# Ignorer les fichiers de cache JetBrains Rider
+.idea/
+
+# Ignorer les fichiers temporaires
+[Tt]emp/
+[Tt]est[Rr]esults/
+
+# Ignorer les fichiers de sortie de compilation
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg][Ss]/
+
+# Ignorer les fichiers Visual Studio de l'Explorateur de tests
+TestResults/
+
+# Ignorer les fichiers de projet Xamarin
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+Generated_Code/
+
+# Ignorer les fichiers Rider
+.idea/
+
+# Ignorer les fichiers de travail Rider
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# Ignorer les fichiers de sauvegarde de Rider
+.idea/backup/
+
+# Ignorer les fichiers cachés Rider
+.idea/misc.xml
+
+# Ignorer les fichiers de cache de ReSharper
+_ReSharper*/
+*.suo
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorer les fichiers cachés Rider
+.idea/shelf/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/caches/
+
+# Ignorer les fichiers cachés VS Code
+.vscode/
+
+# Ignorer les fichiers cachés Rider
+.idea/shelf/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/caches/
+
+# Ignorer les fichiers cachés VS Code
+.vscode/
+
+# Ignorer les fichiers cachés d'autres éditeurs de code
+.idea/
+
+# Ignorer les fichiers cachés d'autres éditeurs de code
+.idea/
